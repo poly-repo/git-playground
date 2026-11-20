@@ -1,4 +1,4 @@
 title: Release plan
 owner: alice
 deadline: Q1
-reviewers: carol
+reviewers: carol, dave

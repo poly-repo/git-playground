@@ -2,3 +2,4 @@
 palette: red
 
 spacing: 8px
+font: inter

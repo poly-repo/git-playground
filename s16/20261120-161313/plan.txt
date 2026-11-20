@@ -1,5 +1,5 @@
 # release plan
 build: make
 test: make test
-deploy: auto (ci), approval required
+deploy: auto (ci) + canary, approval required
 notify: email

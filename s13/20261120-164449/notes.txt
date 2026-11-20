@@ -2,3 +2,4 @@ title: Shared feature
 status: in review
 
 summary: a feature we build together
+owner: teammate (lead)

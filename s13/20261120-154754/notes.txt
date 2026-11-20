@@ -1,3 +1,4 @@
 title: Shared feature
 status: in review
 owner: teammate
+contributor: us

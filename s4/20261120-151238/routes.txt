@@ -1,0 +1,4 @@
+/home     -> HomePage
+/orders   -> OrdersPage
+/profile  -> ProfilePage
+/settings -> SettingsPage

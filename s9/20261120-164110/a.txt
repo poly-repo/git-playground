@@ -1,1 +1,3 @@
 api v1
+see b.txt for docs
+api v1 + client

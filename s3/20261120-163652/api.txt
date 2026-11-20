@@ -2,3 +2,4 @@ endpoint GET  /users
 endpoint GET  /users/{id}
 endpoint POST /users
 endpoint DELETE /users/{id}
+# client.txt uses these endpoints

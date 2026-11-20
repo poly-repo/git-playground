@@ -1,0 +1,4 @@
+# theme
+palette: red
+
+spacing: 8px

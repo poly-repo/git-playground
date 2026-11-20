@@ -1,4 +1,4 @@
 max: 15, burst 5
 #
 #
-window: 1m
+window: 2m

@@ -1,4 +1,4 @@
 max: 15 per user, burst 5
 #
 #
-window: 2m
+window: 5m

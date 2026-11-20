@@ -1,0 +1,5 @@
+# release plan
+build: make
+test: make test
+deploy: manual
+notify: email

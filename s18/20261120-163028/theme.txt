@@ -1,5 +1,5 @@
 # theme
-palette: red, blue
+palette: red, blue, green
 
 spacing: 8px
 font: inter

@@ -1,2 +1,3 @@
 def helper(x):
+    """Strip surrounding whitespace."""
     return x.strip()

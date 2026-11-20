@@ -1,5 +1,5 @@
 # release plan
 build: make
 test: make test
-deploy: manual (approval required)
+deploy: auto (ci), approval required
 notify: email

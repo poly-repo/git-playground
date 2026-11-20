@@ -1,0 +1,3 @@
+client list_users  -> GET  /users
+client get_user    -> GET  /users/{id}
+client create_user -> POST /users

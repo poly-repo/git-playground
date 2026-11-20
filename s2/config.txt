@@ -1,6 +1,6 @@
 host = localhost
 port = 8080
-timeout = 30
+timeout = 45
 retries = 3
-log_level = info
+log_level = warn
 cache_size = 128
